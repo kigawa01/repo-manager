@@ -1,12 +1,16 @@
-# NAME
+# repo-manager
 
 ## About
 
-*
+* repositoryの管理
+* masterブランチをビルドしてnexusにuploadする
+* バージョンが被っていた場合マイナーを変更
+* ブランチの最新をupload
 
 ## Requirement
 
 * java
+* kutil-app
 
 ## Author
 
